@@ -1,0 +1,26 @@
+{
+  "name": "yc-open",
+  "version": "0.0.1",
+  "description": "this is a open tool for yc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhangyaochun/yc-open.git"
+  },
+  "keywords": [
+    "yc",
+    "open",
+    "tool"
+  ],
+  "dependencies": {
+    "open" : "0.0.5"
+  },
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zhangyaochun/yc-open/issues"
+  }
+}

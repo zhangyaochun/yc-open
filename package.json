@@ -1,6 +1,6 @@
 {
   "name": "yc-open",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is a open tool for yc",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,6 @@
     "open",
     "tool"
   ],
-  "dependencies": {
-    "open" : "0.0.5"
-  },
   "author": "zhangyaochun",
   "license": "BSD-2-Clause",
   "bugs": {

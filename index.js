@@ -1,6 +1,6 @@
 'use strict';
 
-var open = require('open');
+var open = require('./lib/open');
 
 
 function callback(error) {

@@ -17,6 +17,8 @@ function prepareOpts(opts) {
     //i insist use Canary for test
     opts.app = opts.app || "Google Chrome Canary";
 
+    return opts;
+
 }
 
 
